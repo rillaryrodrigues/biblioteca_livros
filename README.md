@@ -31,7 +31,7 @@ Ferramentas	Maven/Gradle, Git, Postman, VS CODE, MySQL e Spring Boot
 
 Acesse a aplicação no navegador:
 
-➡️ http://localhost:8000/index.html?
+➡️ http://localhost:8000/
 
 📊 Diagrama de Classes
 O diagrama de classes está disponível na pasta /docs. Ele demonstra como usamos Programação Orientada a Objetos (POO) para garantir um sistema organizado e escalável, aplicando conceitos como encapsulamento, herança e polimorfismo.
