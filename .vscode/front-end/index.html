@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8" />
+    <title>Biblioteca</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <h1>Biblioteca</h1>
+
+    <h2>Adicionar Livro</h2>
+    <form id="livroForm">
+        <input type="text" id="titulo" placeholder="Título" required />
+        <input type="text" id="autor" placeholder="Autor" required />
+        <input type="number" id="anoPublicacao" placeholder="Ano de Publicação" required />
+        <input type="text" id="editora" placeholder="Editora" required />
+        <button type="submit">Adicionar</button>
+    </form>
+
+    <h2>Pesquisar Livro</h2>
+    <input type="text" id="pesquisa" placeholder="Buscar por título..." />
+
+    <h2>Lista de Livros</h2>
+    <ul id="listaLivros"></ul>
+
+    <script src="script.js"></script>
+</body>
+</html>
