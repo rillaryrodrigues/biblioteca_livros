@@ -1,7 +1,6 @@
 # Biblioteca Digital: Sistema Integrado de Gestão de Livros
 
-🚀 Sobre o Projeto
-Este sistema foi criado para modernizar a gestão de uma biblioteca municipal, facilitando o controle do acervo e melhorando o atendimento dos usuários. Com ele, é possível realizar todas as operações básicas de gerenciamento de livros: Cadastrar, Consultar, Atualizar e Deletar (CRUD).
+🚀 Este sistema foi criado para modernizar a gestão de uma biblioteca municipal, facilitando o controle do acervo e melhorando o atendimento dos usuários. Com ele, é possível realizar todas as operações básicas de gerenciamento de livros: Cadastrar, Consultar, Atualizar e Deletar (CRUD).
 
 O projeto conta com:
 
